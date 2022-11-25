@@ -8,6 +8,8 @@
     font-style: italic;
     font-weight: bold;
     text-decoration: underline;
+    width: 600px;
+    height: 550px;
 }
 
 .main-heading {
