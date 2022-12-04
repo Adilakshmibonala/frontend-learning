@@ -1,0 +1,15 @@
+.button {
+    padding: 10px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.button-green {
+    background-color: green
+}
+
+.button-orange {
+    background-color: orange
+}
