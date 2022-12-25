@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-main-containter {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.content {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.heading-element {
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.p1-paragraph-element {
+    color: #323f4b;
+    font-size: 10px;
+}
+
+.p2-paragraph-element {
+    color: #7b8794;
+    font-size: 13px;
+}
+
+.button-element {
+    background-color: #323f4b;
+    color: white;
+    font-size: 10px;
+    padding: 9px 20px 9px 20px;
+    border-radius: 7px;
+}
+
+
+
+
+
