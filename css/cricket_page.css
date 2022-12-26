@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.header-content {
+    background-color: #fb4e71;
+    color: white;
+    padding: 10px;
+}
+
+.top-heading {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.top-paragraph {
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.top-image {
+    width: 80px;
+}
+
+.middle-section {
+    background-color: #e6f6ff;
+    padding: 12px;
+}
+
+.middle-card {
+    background-color: white;
+    font-family: Roboto;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.middle-heading {
+    font-size: 17px;
+    color: #323f4b;
+}
+
+.middle-paragraph {
+    font-size: 15px;
+    color: #888888;
+}
+
+.middle-content-container {
+    margin: 10px;
+}
+
+.middle-content-image {
+    width: 90px;
+}
+
+.header {
+    font-size: 17px;
+    margin-left: 13px;
+}
+
+.video-content {
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.video {
+    margin-left: 10px;
+}
+
+.video-container {
+    margin-left: 10px;
+}
+
+.button {
+    text-align: center;
+    margin: 10px;
+}
